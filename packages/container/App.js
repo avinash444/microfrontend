@@ -4,6 +4,7 @@ import {
   StylesProvider,
   createGenerateClassName,
 } from '@material-ui/core/styles';
+
 import { createBrowserHistory } from 'history';
 
 import Progress from './components/Progress';
